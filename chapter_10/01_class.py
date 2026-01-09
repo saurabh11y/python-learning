@@ -3,6 +3,6 @@ class employee:
     salary = 999999900
 
 
-shaurya = employee()
+Shaurya= employee()
 shaurya.name = "shaurya"  # this is an object attribute
 print(shaurya.salary,shaurya.language)
